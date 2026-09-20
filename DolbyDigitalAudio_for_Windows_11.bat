@@ -13,6 +13,7 @@ echo To install Dolby Access OEM use winget install --id 9nxrntflmptf
 echo or https://apps.microsoft.com/detail/9nxrntflmptf
 
 echo.
+echo.
 echo Opening Microsoft Store application to manually install Dolby AC-4 decoder for PC OEMs...
 start ms-windows-store://pdp/?ProductId=9p7646qph1q0
 
